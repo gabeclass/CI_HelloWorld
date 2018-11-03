@@ -4,8 +4,8 @@
 #language: C++
 #sudo: False
 
-#env:
-#- TRAVIS_CI_ENV="This content will result in failure"
+env:
+- TRAVIS_CI_ENV="This content will result in failure"
 
 #before_install:
 #- Put commands here to prepare for executing builds/installs
