@@ -5,7 +5,7 @@
 #sudo: False
 
 env:
-- TRAVIS_CI_ENV="Hello, Worldsies!"
+- TRAVIS_CI_ENV="Hello, World"
 
 #before_install:
 #- Put commands here to prepare for executing builds/installs
