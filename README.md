@@ -1,3 +1,9 @@
+Build status
+============
+
+[![Build Status](https://www.travis-ci.com/github/gabeclass/CI_HelloWorld.svg?branch=master)](https://www.travis-ci.com/github/gabeclass/CI_HelloWorld)
+
+
 Travis CI Hello World
 =====================
 
